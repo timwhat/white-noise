@@ -1,0 +1,20 @@
+Math,,,,,Notes
+,,,,,https://bdboxell.github.io/robocalc/
+Parameters:,,Config 1,Config 2,Config 3,
+Drive Train,Drive Wheel Diameter (mm),28,28,28,
+,Drive Motor KV (w/ Gearbox),102,102,102,
+,,,,,
+Spinner,Motor KV,1800,1800,1800,
+,MOI,70000,70000,70000,
+,Diameter (mm),63.5,63.5,63.5,
+Global,Voltage,17,17,17,This is a 4s LiHV Battery & im using 17 instead of 17.4 as its more realistic over the course of a match
+,DT Throttle,1,1,1,
+,Weapon Throttle,1,0.8,0.5,
+,,,,,
+Output,,,,,
+Drive Train,Free Spin RPM,1734,1734,1734,
+,Ground Speed (mm/s),2542.176775,2542.176775,2542.176775,
+Spinner,Free Spin RPM,30600,24480,15300,
+,Bite (mm),4.984660344,6.23082543,9.969320687,
+,Surface Speed (mm/s),101740.4781,81392.38247,50870.23904,
+,Surface Speed (mph),227.5869676,182.0695741,113.7934838,
