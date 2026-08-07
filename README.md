@@ -41,7 +41,7 @@ It's important to counter other robot archetypes to prevent anyweakness in this 
 - I made a calculation of this robot here: [the-math.csv](Calcuations/the-math.csv)
 
 # BOM + Weight Breakdown
-s
+
 |Weight Distro |                  |  ||   |      |                    |Sourcing          |                |
 |--------------|-----------------------------|--------|------|----------|-------------|--------------------------|------------------|----------------------|
 |              |                             |        |      |          |             |                          |                  |                      |
@@ -96,6 +96,11 @@ s
 |              |#4 Screws                    |0.525   |6     |3.15      |0.6938325991 |                          |Comes With Wedge  |                      |
 |              |                             |        |      |40.86     |9            |                          |                  |                      |
 |              |With Chassis                 |        |      |447.33431 |             |                          |                  |                      |
+
+# Wiring Diagram
+Instructions still WIP
+
+![wiring](IMGS/aug6WiringDiagram.png)
 
 # License
 This project is available under the MIT License. See [LICENSE](LICENSE) for details.
