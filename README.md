@@ -100,6 +100,9 @@ It's important to counter other robot archetypes to prevent anyweakness in this 
 # Wiring Diagram
 Instructions still WIP
 
+# Print/Mold Instructions 
+in [here](CAD/README.md)
+
 ![wiring](IMGS/aug6WiringDiagram.png)
 
 # License
