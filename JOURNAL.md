@@ -4,9 +4,9 @@ author: "Tim"
 description: "A 1lb Competitive Control \u0026 Drisk Spinner Combat robot!\n\n### Configurable!\n- Wedge, to counter horizontal spinners, as it deflects their weapon into the spinner\n- Fork, to counter everything else, with its silicone pillows to actively push them against the ground!"
 created_at: "2026-06-23"
 ---
-# 2026-08-06: Regrouping
+# 2026-11-08: Regrouping
 
-**Total time spent: 1 .25 hours**
+**Total time spent: 2.4 hours**
 
 ### Rejected from Macondo 
 - So my project after many months got rejected from macondo see full reason here: https://macondo.hackclub.com/projects/10896
@@ -16,16 +16,34 @@ created_at: "2026-06-23"
 
 ### Weapon axle upgrade
 - After speaking to some people at my university about my design, who had much more experience then my they said that its not great that I'm using normal bearings there over needle ones, since they spread the load much more evenly
+
+![image](IMGS/nov2cad5.png)
+
 - I had considered this before although due to me only being able to source aluminum axles that have the flange on the end from repeat robotics (It needs the flange so then it could spread the load much more evenly on the 3d print) I was stuck with the normal ones
 - Then I realized that I'm in university now with access to a machine shop where I could custom mill my own, which would make it much more optimized as then I could use steel!
 
-insert imgs here
+|![image](IMGS/nov2cad4.png)|![image](IMGS/nov2cad3.png)|
+|---|---|
+|![image](IMGS/nov2cad1.png)|![image](IMGS/nov8drawings.png)|
 
 - I also optimized the length here so its the minimum distance needed to contact the full bearing and I made it m3 with a 4mm OD so I could basically min max the material there and use the smallest needle bearings I could get my hands on
 - also I was slighly concerned with the strength of this so i threw it into the simulation and it looks fine (knock on wood)
 
+![image](IMGS/nov2cad2.png)
+
 - And after all that I got to save 1-2ish grams over the original setup while having this be much stronger
 
+![image](IMGS/nov8weights.png)
+
+### BOM Update
+- I also now split up the sections to what hackclub pays and what I would need to supplement outa pocket :/
+- Since the budget here is lower
+- In addition to removing the old weapon axle, and adding in the new weapon bearing
+- I also moved around some stuff so it would be easier for it to be imported into the fabricate BOM thing but i realized its really annoying espically with my format so ima just ask if i really have to and call it for today https://hackclub.slack.com/archives/C0C1C5UEZND/p1794199099719589 
+
+![images](IMGS/nov8BOM.png)
+
+also minor note this spans multiple days because I just didn't have enough time to make the writups and the thing at in the same day so yea!
 
 # 2026-08-06: Submitting!
 
