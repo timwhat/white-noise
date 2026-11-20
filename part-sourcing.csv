@@ -1,67 +1,67 @@
-Vendor,Component,Part Name / Description,Qty,Unit Price,Total Price,Currency,Link,(hack club specific) Notes,
-Repeat Robotics,Drive Motors,Mini Brushed Mk2 (4mm shaft variant),2,20,40,USD,https://repeat-robotics.com/collections/antweight/products/repeat-mini-brushed-mk2-1pcs,,
-Repeat Robotics,Drive ESC,Dominion Dual Brushed Drive ESC,1,27.5,27.5,USD,https://repeat-robotics.com/collections/antweight/products/dominion-dual-brushed-drive-esc,,
-Repeat Robotics,Weapon ESC,Blheli_s 35A Ant Weapon ESC,1,13.5,13.5,USD,https://repeat-robotics.com/collections/weapon-systems/products/readytosky-35a-blheli_s-ant-weapon-esc,,
-Repeat Robotics,Weapon Motor,Repeat 2822 Mk3 - 1800 KV,1,20,20,USD,https://repeat-robotics.com/collections/weapon-systems/products/repeat-2822-mk3,,
-Repeat Robotics,Smoke Stopper,VIFLY ShortSaver V2 - Smart Smoke Stopper,1,13,13,USD,https://repeat-robotics.com/collections/electronics/products/vifly-shortsaver-v2-smart-smoke-stopper,,
-Repeat Robotics,Screw Switch,Fingertech Switch,1,9,9,USD,https://repeat-robotics.com/products/fingertech-switch,,
-Subtotal,,,,,123,USD,,,
-Shipping & Tax,,,,,43.8897,USD,,,
-Total,,,,,166.8897,USD,,,
-,,,,,,,,,
-AliExpress,Battery Charger,LiPo Battery Charger,1,27.74,27.74,CAD,https://www.aliexpress.com/item/1005006997505439.html,,
-AliExpress,Receiver ,Radiomaster PWM Reciever ER4 ELRS,1,26.99,26.99,CAD,https://www.aliexpress.com/item/1005005724568735.html,,
-AliExpress,Drive Bearing,4x7x2.5mm Bearings - 10 Pack,1,5.89,5.89,CAD,https://www.aliexpress.com/item/1005007668446060.html,,
-AliExpress,Drum Bearing,4x8x6 Bearings - 10 Pack,1,5.67,5.67,CAD,https://www.aliexpress.com/item/1005004144086615.html,,
-AliExpress,Drum Washer,M3x9x.08 Washer - 50 Pack,1,3.13,3.13,CAD,https://www.aliexpress.com/item/1005010748092186.html,,
-AliExpress,Fasteners,M3 Screws for Plastic 6mm - 20 pack ,2,2.59,5.18,CAD,https://www.aliexpress.com/item/1005005561022953.html,,
-AliExpress,DT Shaft,M3 Shoulder Screw 4mm OD 20mm Long - 5 pack,1,4.25,4.25,CAD,https://www.aliexpress.com/item/1005008314676042.html,,
-AliExpress,DT Motor Screw,M2x4mm Countersunk - 50 pack,1,1.98,1.98,CAD,https://www.aliexpress.com/item/4000193155954.html,,
-AliExpress,Battery Connector,XT30 Connector Pack,1,3.31,3.31,CAD,https://www.aliexpress.com/item/1005009051652893.html,,
-AliExpress,Wires,18 AWG Wires ,1,3.38,3.38,CAD,https://www.aliexpress.com/item/1005008409314314.html,,
-AliExpress,RIM Coloring,Pearlescent Mica Powder,1,4.49,4.49,CAD,https://www.aliexpress.com/item/1005007463773401.html,,
-AliExpress,Weapon Lock,Stainless Steel Rod,1,4.64,4.64,CAD,https://www.aliexpress.com/item/1005009347568195.html,,
-Subtotal,,,,,96.65,CAD,,,
-Shipping & Tax,,,,,18.94,CAD,,,
-Total,,,,,115.59,CAD,,,
-,,,,,,,,,
-Hack Club total,,Assuming .71 USD = 1 CAD,,Aliexpress,82.0689,USD,,,
-,,,,Repeat Robotics,166.8897,USD,,,
-,,,,Total:,248.9586,,,,
-,,,,,,,,,
-AliExpress,DT Belt - Front,HTD 44T,4,2.51,10.04,CAD,https://www.aliexpress.com/item/1005010619623748.html,,C$7.13 shipping
-AliExpress,DT Belt - Back,HTD 35T,4,2.51,10.04,CAD,https://www.aliexpress.com/item/1005010619623748.html,,C$7.13 shipping
-AliExpress,Drum Standoff,M4 Standoff 45mm - 3 pack,2,3.86,7.72,CAD,https://www.aliexpress.com/item/1005008598758432.html,,
-AliExpress,Battery,4s Lipo Battery Pack 380mAh - 2pack,1,33.58,33.58,CAD,https://www.aliexpress.com/item/1005003131403016.html,,C$4.68 shipping
-AliExpress,Radio,Radiomaster Pocket Edge ELRS White FCC + Battery,1,96.68,96.68,CAD,https://www.aliexpress.com/item/1005012476902932.html,,
-Aliexpress,Radio Batterys,18650 9800mAh - 2 Pack,1,9.38,9.38,CAD,https://www.aliexpress.com/item/1005009885144731.html,,
-Subtotal,,,,,167.44,,,,
-Shipping & Tax ,,,,,18.94,,,,
-,,,,,186.38,,,,
-,,,,,,,,,
-Sculpture Supply,Drive Tire,VytaFlex 30,1,29,29,CAD,https://sculpturesupply.com/products/vytaflex-30?_pos=4&_sid=2534665f9&_ss=r,,
-Subtotal,,,,,29,CAD,,,
-Shipping & Tax,,,,,3.77,CAD,,,
-Total,,,,,32.77,CAD,,,
-,,,,,,,,,
-CNC Madness,CF Bottom Plate,,2,13.75,27.5,CAD,,,
-CNC Madness,CF Top Plate,,2,13.75,27.5,CAD,,,
-CNC Madness,CF Angled Pate,,2,13.75,27.5,CAD,,,
-Subtotal,,,,,82.5,CAD,,,
-Shipping & Tax,,,,,35.725,CAD,,,
-Total,,,,,118.225,CAD,,,
-,,,,,,,,,
-SCS,Weapon Plate,,4,5.19,20.76,USD,,,
-SCS,Fork,,4,2.97,11.88,USD,,,
-Subtotal,,,,,32.64,USD,,,
-Discount,,,,,-4.9,USD,15% code,,
-Shipping & Handling,,,,,19,USD,,,
-Tariff,,,,,6.94,USD,,,
-Total,,,,,53.68,USD,,,
-,,,,,,,,,
-,,,,,,,,,
-Total for me,,,,Aliexpress,132.3298,,,,
-,,,,Sculputre Supply,23.2667,,,,
-,,,,CNC Madness,83.93975,,,,
-,,,,SCS,53.68,,,,
-,,,,Total,293.21625,USD,,,
+Vendor,Component,Part Name / Description,Qty,Unit Price,Total Price,Link,(hack club specific) Notes,Currency
+Repeat Robotics,Drive Motors,Mini Brushed Mk2 (4mm shaft variant),2,20,40,https://repeat-robotics.com/collections/antweight/products/repeat-mini-brushed-mk2-1pcs,,USD
+Repeat Robotics,Drive ESC,Dominion Dual Brushed Drive ESC,1,27.5,27.5,https://repeat-robotics.com/collections/antweight/products/dominion-dual-brushed-drive-esc,,USD
+Repeat Robotics,Weapon ESC,Blheli_s 35A Ant Weapon ESC,1,13.5,13.5,https://repeat-robotics.com/collections/weapon-systems/products/readytosky-35a-blheli_s-ant-weapon-esc,,USD
+Repeat Robotics,Weapon Motor,Repeat 2822 Mk3 - 1800 KV,1,20,20,https://repeat-robotics.com/collections/weapon-systems/products/repeat-2822-mk3,,USD
+Repeat Robotics,Smoke Stopper,VIFLY ShortSaver V2 - Smart Smoke Stopper,1,13,13,https://repeat-robotics.com/collections/electronics/products/vifly-shortsaver-v2-smart-smoke-stopper,,USD
+Repeat Robotics,Screw Switch,Fingertech Switch,1,9,9,https://repeat-robotics.com/products/fingertech-switch,,USD
+Subtotal,,,,,123,,,USD
+Shipping & Tax,,,,,43.8897,,,USD
+Total,,,,,166.8897,,,USD
+,,,,,,,,
+AliExpress,Fasteners,M3 Screws for Plastic 6mm - 20 pack ,2,1.8389,3.6778,https://www.aliexpress.com/item/1005005561022953.html,,USD
+AliExpress,DT Shaft,M3 Shoulder Screw 4mm OD 20mm Long - 5 pack,1,3.0175,3.0175,https://www.aliexpress.com/item/1005008314676042.html,,USD
+AliExpress,DT Motor Screw,M2x4mm Countersunk - 50 pack,1,1.4058,1.4058,https://www.aliexpress.com/item/4000193155954.html,,USD
+AliExpress,Battery Connector,XT30 Connector Pack,1,2.3501,2.3501,https://www.aliexpress.com/item/1005009051652893.html,,USD
+AliExpress,Wires,18 AWG Wires ,1,2.3998,2.3998,https://www.aliexpress.com/item/1005008409314314.html,,USD
+AliExpress,RIM Coloring,Pearlescent Mica Powder,1,3.1879,3.1879,https://www.aliexpress.com/item/1005007463773401.html,,USD
+AliExpress,Weapon Lock,Stainless Steel Rod,1,3.2944,3.2944,https://www.aliexpress.com/item/1005009347568195.html,,USD
+Subtotal,,,,,19.3333,,,USD
+Shipping & Tax,,,,,13.4474,,,USD
+Total,,,,,32.7807,,,USD
+,,,,,,,,
+Hack Club total,,Assuming .71 USD = 1 CAD,,Aliexpress,32.7807,,,USD
+,,,,Repeat Robotics,166.8897,,,USD
+,,,,Total:,199.6704,,,
+,,,,,,,,
+AliExpress,Drive Bearing,4x7x2.5mm Bearings - 10 Pack,1,4.1819,4.1819,https://www.aliexpress.com/item/1005007668446060.html,,USD
+AliExpress,Drum Bearing,4x8x6 Bearings - 10 Pack,1,4.0257,4.0257,https://www.aliexpress.com/item/1005004144086615.html,,USD
+AliExpress,Drum Washer,M3x9x.08 Washer - 50 Pack,1,2.2223,2.2223,https://www.aliexpress.com/item/1005010748092186.html,,USD
+AliExpress,Battery Charger,LiPo Battery Charger,1,19.6954,19.6954,https://www.aliexpress.com/item/1005006997505439.html,,USD
+AliExpress,Receiver ,Radiomaster PWM Reciever ER4 ELRS,1,19.1629,19.1629,https://www.aliexpress.com/item/1005005724568735.html,,USD
+AliExpress,DT Belt - Front,HTD 44T,4,1.7821,7.1284,https://www.aliexpress.com/item/1005010619623748.html,,USD
+AliExpress,DT Belt - Back,HTD 35T,4,1.7821,7.1284,https://www.aliexpress.com/item/1005010619623748.html,,USD
+AliExpress,Drum Standoff,M4 Standoff 45mm - 3 pack,2,2.7406,5.4812,https://www.aliexpress.com/item/1005008598758432.html,,USD
+AliExpress,Battery,4s Lipo Battery Pack 380mAh - 2pack,1,23.8418,23.8418,https://www.aliexpress.com/item/1005003131403016.html,,USD
+AliExpress,Radio,Radiomaster Pocket Edge ELRS White FCC + Battery,1,68.6428,68.6428,https://www.aliexpress.com/item/1005012476902932.html,,USD
+Aliexpress,Radio Batterys,18650 9800mAh - 2 Pack,1,6.6598,6.6598,https://www.aliexpress.com/item/1005009885144731.html,,USD
+Subtotal,,,,,118.8824,,,
+Shipping & Tax ,,,,,13.4474,,,
+,,,,,132.3298,,,
+,,,,,,,,
+Sculpture Supply,Drive Tire,VytaFlex 30,1,20.59,20.59,https://sculpturesupply.com/products/vytaflex-30?_pos=4&_sid=2534665f9&_ss=r,,USD
+Subtotal,,,,,20.59,,,USD
+Shipping & Tax,,,,,2.6767,,,USD
+Total,,,,,23.2667,,,USD
+,,,,,,,,
+CNC Madness,CF Bottom Plate,,2,9.7625,19.525,,,USD
+CNC Madness,CF Top Plate,,2,9.7625,19.525,,,USD
+CNC Madness,CF Angled Pate,,2,9.7625,19.525,,,USD
+Subtotal,,,,,58.575,,,USD
+Shipping & Tax,,,,,25.36475,,,USD
+Total,,,,,83.93975,,,USD
+,,,,,,,,
+SCS,Weapon Plate,,4,5.19,20.76,,,USD
+SCS,Fork,,4,2.97,11.88,,,USD
+Subtotal,,,,,32.64,,,USD
+Discount,,,,,-4.9,15% code,,USD
+Shipping & Handling,,,,,19,,,USD
+Tariff,,,,,6.94,,,USD
+Total,,,,,53.68,,,USD
+,,,,,,,,
+,,,,,,,,
+Total for me,,,,Aliexpress,132.3298,,,
+,,,,Sculputre Supply,23.2667,,,
+,,,,CNC Madness,83.93975,,,
+,,,,SCS,53.68,,,
+,,,,Total,293.21625,,,USD

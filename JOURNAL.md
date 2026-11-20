@@ -4,6 +4,24 @@ author: "Tim"
 description: "A 1lb Competitive Control \u0026 Drisk Spinner Combat robot!\n\n### Configurable!\n- Wedge, to counter horizontal spinners, as it deflects their weapon into the spinner\n- Fork, to counter everything else, with its silicone pillows to actively push them against the ground!"
 created_at: "2026-06-23"
 ---
+
+# 2026-11-20: Submitting
+
+**Total time spent: .5 hours**
+
+- After lurking in the fabricate slack channels for a while i realized people weren't allowed to submit their project there if it wasnt directed there from the form sooo ima just sub it through forge!! (i appologize for trying to leave u guys)
+- So I redid the BOM to match teir two ( $200 max )
+
+![image](IMGS/nov20BOM.png)
+
+- I also plan on making more configs like a over head protecting one, or even trying LONGER TPU forks like the ones on skywalker since those are a new meta, or even a angled drisk style setup
+- But for now I'll call it here since this has been too long and I need more experience before doing those mods
+
+- I also updated the github with the new versions of the part-sourcing and drawings!
+![image](IMGS/nov20progress.png)
+
+So now i submit again and hope for the best
+
 # 2026-11-08: Regrouping
 
 **Total time spent: 2.4 hours**
