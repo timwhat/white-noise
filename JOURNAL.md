@@ -21,6 +21,7 @@ created_at: "2026-06-23"
 ![image](IMGS/nov20progress.png)
 
 So now i submit again and hope for the best
++ i didnt know i couldnt just export to forge so the dates on forge are messed up but u can check here for the commit dates...
 
 # 2026-11-08: Regrouping
 
